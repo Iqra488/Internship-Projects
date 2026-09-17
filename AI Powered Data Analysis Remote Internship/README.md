@@ -2,7 +2,7 @@
 ## RIT Opportunity Data
 Prepared a Full, Detailed Consolidated Report on Student Participation, Engagement, and Success Prediction through out the internship
 
-### Key highlights:###
+### Key highlights:
 Explored and analyzed RIT data to understand its structure, variables, and underlying patterns.
 Cleaned and preprocessed the dataset to improve data quality and prepare it for machine learning.
 Performed data preparation and feature selection to develop suitable predictive models.
